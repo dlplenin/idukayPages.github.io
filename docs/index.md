@@ -1,7 +1,6 @@
 
 # IDUKAY
 
-[Integraciones]()
   * # Webhooks
   * [Contable](docs/contable.md)
   * # API
