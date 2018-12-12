@@ -2,6 +2,6 @@
 # IDUKAY
 
   * # Webhooks
-  * [Contable](docs/contable.md)
+  * [Contable](contable.md)
   * # API
-  * [REST API](docs/restapi.md)
+  * [REST API](restapi.md)
