@@ -1,6 +1,9 @@
 
 
 @import "{{ site.theme }}";
+header {
+display: none;
+}
 .page-header {display: none;}
 #footer_wrap {display: none;}
 #forkme_banner {display: none;}
