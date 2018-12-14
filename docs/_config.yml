@@ -9,15 +9,3 @@ paginate:     1
 values:
       layout: single
 
-# About/contact
-author:
-  name:       Tanya Gupta
-  url:        http://learnin60seconds.com
-  baseurl:    ""
-
-# Gems
-gems:
-  - jekyll-paginate
-
-#Others
-markdown: kramdown  
