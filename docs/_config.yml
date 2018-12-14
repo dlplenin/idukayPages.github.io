@@ -4,6 +4,6 @@
 title:        [Idukay]
 description: [portfolio]
 google_analytics: [UA-54473427-1]
-layouts_dir         : _layouts
+is_project_page: false
 
 theme: jekyll-theme-leap-day
