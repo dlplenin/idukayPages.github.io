@@ -2,10 +2,3 @@ theme: jekyll-theme-cayman
  
 # Setup
 title:        [Tanya Gupta]
-description: [portfolio]
-google_analytics: [UA-54473427-1]
-baseurl:      ""
-paginate:     1
-values:
-      layout: single
-
