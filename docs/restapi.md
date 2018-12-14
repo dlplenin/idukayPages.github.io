@@ -1,5 +1,4 @@
-[Regresar al menú principal](index.md){: .btn}
-<button name="button" onclick="http://www.google.com">Click me</button>
+[Regresar al menú principal](index.md)
 
 # Overview
 
