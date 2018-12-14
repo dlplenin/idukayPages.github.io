@@ -12,7 +12,7 @@ Se registra por partner-evento una URL https:// donde los datos del evento se en
 
 ## Estudiante
 
-El objeto JSON que **Idukay** genera tiene la siguientes campos:
+El objeto JSON que **Idukay** genera tiene los siguientes campos:
 
 |      Campo     |                               Significado                               |          Ejemplo         |
 |:--------------:|:-----------------------------------------------------------------------:|:------------------------:|
@@ -51,7 +51,7 @@ El objeto JSON que **Idukay** genera tiene la siguientes campos:
 
 ## Padre
 
-El objeto JSON que **Idukay** genera tiene la siguientes campos:
+El objeto JSON que **Idukay** genera tiene los siguientes campos:
 
 |      Campo     |              Significado                           |          Ejemplo         |
 |:--------------:|:--------------------------------------------------:|:------------------------:|
@@ -88,7 +88,7 @@ El objeto JSON que **Idukay** genera tiene la siguientes campos:
 
 ## Grado
 
-El objeto JSON que **Idukay** genera tiene la siguientes campos:
+El objeto JSON que **Idukay** genera tiene los siguientes campos:
 
 |  Campo  |                        Significado                       |          Ejemplo         |
 |:-------:|:--------------------------------------------------------:|:------------------------:|
