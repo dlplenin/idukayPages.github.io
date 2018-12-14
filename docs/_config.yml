@@ -1,1 +1,25 @@
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-cayman
+ 
+# Setup
+title:        [Tanya Gupta]
+description: [portfolio]
+google_analytics: [UA-54473427-1]
+baseurl:      ""
+paginate:     1
+values:
+      layout: single
+
+# About/contact
+author:
+  name:       Tanya Gupta
+  url:        http://learnin60seconds.com
+  baseurl:    ""
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown  
+
+include: ["_pages"]
