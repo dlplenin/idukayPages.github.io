@@ -5,6 +5,7 @@ title:        [Idukay]
 description: [portfolio]
 google_analytics: [UA-54473427-1]
 is_project_page: false
+show_downloads: true
 
 github:
   is_project_page: false
