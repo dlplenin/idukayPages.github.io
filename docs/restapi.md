@@ -1,4 +1,6 @@
 [Regresar al menú principal](index.md){: .btn}
+<button name="button" onclick="http://www.google.com">Click me</button>
+
 # Overview
 
 Integrate our API to exchange data from our schools network.
