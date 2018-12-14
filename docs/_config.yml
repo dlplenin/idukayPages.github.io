@@ -1,13 +1,8 @@
-
- 
-# Setup
 title:        [IDUKAY]
 description: [Integrations]
-google_analytics: [UA-54473427-1]
 is_project_page: false
 show_downloads: false
 
-github:
-  is_project_page: false
+
   
 theme: jekyll-theme-cayman
