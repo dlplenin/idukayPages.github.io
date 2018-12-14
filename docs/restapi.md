@@ -1,5 +1,4 @@
-[Regresar al menú principal](index.md)
-
+[Regresar al menú principal](index.md){: .btn}
 # Overview
 
 Integrate our API to exchange data from our schools network.
