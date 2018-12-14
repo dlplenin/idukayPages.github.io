@@ -1,9 +1,9 @@
 # Contable
 
 Los webhooks son una herramienta para enviar datos después de un evento determinado dentro de la plataforma **IDUKAY**:
-* Creación/actualización de un [Estudiante](#Estudiante)
-* Creación/actualización de un [Padre](#Padre)
-* Creación/actualización de un [Grado](#Grado)
+* Creación/actualización de un [Estudiante](#estudiante)
+* Creación/actualización de un [Padre](#padre)
+* Creación/actualización de un [Grado](#grado)
 
 Se registra por partner-evento una URL https:// donde los datos del evento se envían en formato _JSON_ en el _body_ de la petición.
 
